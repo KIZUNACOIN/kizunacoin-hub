@@ -1,0 +1,2 @@
+*/5 * * * * cd kizunacoin-hub; node check_daemon.js 1>>~/.config/kizunacoin-hub/check_daemon.log 2>>~/.config/kizunacoin-hub/check_daemon.err
+*/15 * * * * cd kizunacoin-hub; node check_witnesses.js 1>>~/.config/kizunacoin-hub/check_witnesses.log 2>>~/.config/kizunacoin-hub/check_witnesses.err
