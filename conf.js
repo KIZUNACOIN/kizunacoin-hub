@@ -2,7 +2,7 @@
 "use strict";
 
 exports.clientName = 'kizunacoin';
-exports.minClientVersion = '2.3.0';
+exports.minClientVersion = '2.4.0';
 
 // https://console.developers.google.com
 exports.pushApiProjectNumber = 0;

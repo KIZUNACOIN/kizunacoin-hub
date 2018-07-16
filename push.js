@@ -54,7 +54,7 @@ function sendRest(registrationIds) {
 		"registration_ids": registrationIds,
 		"data": {
 			"message": "New message",
-			"title": "Byteball",
+			"title": "Kizunacoin",
 			"vibrate": 1,
 			"sound": 1
 		}
