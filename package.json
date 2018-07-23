@@ -26,7 +26,6 @@
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "apn": "^2.2.0",
     "kizunacoin-relay": "git+https://github.com/KIZUNACOIN/kizunacoin-relay.git",
     "request": "^2.81.0"
   }
