@@ -13,7 +13,7 @@ The hub helps deliver such messages when the recipient is temporarily offline or
 
 Since all messages are encrypted with the recipient's key, the hub cannot read them.
 
-Users set their hub address in their wallet settings.  The default hub is wss://byteball.org/bb but users can change it to your hub address.
+Users set their hub address in their wallet settings.  The default hub is wss://hub.kizunacoin.jp but users can change it to your hub address.
 
 ## Install
 
